@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&text=Harvik%20Sanghavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&text=Harvik%20Sanghavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Harvik+%F0%9F%91%8B;Data+Science+student+who+ships+AI+products;Agents+%7C+RAG+%7C+Computer+Vision+%7C+FinTech+AI;Turning+messy+data+into+real+decisions." alt="Typing SVG" />
 
